@@ -7,15 +7,20 @@ Database - [AdventureWorksDW2019.bak](https://learn.microsoft.com/en-us/sql/samp
 * Query Editing Tool - Microsoft SQL Server Management Studio (SSMS)
 * Visualization Tool - Microsoft PowerBI
 
-The following tables were chosen for analysis:
+## The following tables were chosen for analysis:
 * Dim_Customer.sql
 * Dim_Date.sql
 * Dim_Products.sql
 * FactInternetSales.sql
-*
+* Dim_Geography.sql
 
 
 ## Data Visualization 
+##### i. Entity Relationship Diagram Model
+![My image]()
+##### ii. Sales Overview Dashboard
+##### iii. Product Details Dashboard
+##### iv. Customer Details Dashbaord
 
 
 #### Contributions are welcome here 😊
