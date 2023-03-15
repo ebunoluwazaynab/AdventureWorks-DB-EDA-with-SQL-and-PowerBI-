@@ -1,0 +1,398 @@
+﻿ProductKey,ProductSubcategoryKey,ProductName,Category,SubCategory,StandardCost,Color,ModelName,Status
+210,14,"HL Road Frame - Black, 58",Components,Road Frames,NULL,Black,HL Road Frame,Current
+211,14,"HL Road Frame - Red, 58",Components,Road Frames,NULL,Red,HL Road Frame,Current
+212,31,"Sport-100 Helmet, Red",Accessories,Helmets,12.0278,Red,Sport-100,Outdate
+213,31,"Sport-100 Helmet, Red",Accessories,Helmets,13.8782,Red,Sport-100,Outdate
+214,31,"Sport-100 Helmet, Red",Accessories,Helmets,13.0863,Red,Sport-100,Current
+215,31,"Sport-100 Helmet, Black",Accessories,Helmets,12.0278,Black,Sport-100,Outdate
+216,31,"Sport-100 Helmet, Black",Accessories,Helmets,13.8782,Black,Sport-100,Outdate
+217,31,"Sport-100 Helmet, Black",Accessories,Helmets,13.0863,Black,Sport-100,Current
+218,23,"Mountain Bike Socks, M",Clothing,Socks,3.3963,White,Mountain Bike Socks,Outdate
+219,23,"Mountain Bike Socks, L",Clothing,Socks,3.3963,White,Mountain Bike Socks,Outdate
+220,31,"Sport-100 Helmet, Blue",Accessories,Helmets,12.0278,Blue,Sport-100,Outdate
+221,31,"Sport-100 Helmet, Blue",Accessories,Helmets,13.8782,Blue,Sport-100,Outdate
+222,31,"Sport-100 Helmet, Blue",Accessories,Helmets,13.0863,Blue,Sport-100,Current
+223,19,AWC Logo Cap,Clothing,Caps,5.7052,Multi,Cycling Cap,Outdate
+224,19,AWC Logo Cap,Clothing,Caps,5.2297,Multi,Cycling Cap,Outdate
+225,19,AWC Logo Cap,Clothing,Caps,6.9223,Multi,Cycling Cap,Current
+226,21,"Long-Sleeve Logo Jersey, S",Clothing,Jerseys,31.7244,Multi,Long-Sleeve Logo Jersey,Outdate
+227,21,"Long-Sleeve Logo Jersey, S",Clothing,Jerseys,29.0807,Multi,Long-Sleeve Logo Jersey,Outdate
+228,21,"Long-Sleeve Logo Jersey, S",Clothing,Jerseys,38.4923,Multi,Long-Sleeve Logo Jersey,Current
+229,21,"Long-Sleeve Logo Jersey, M",Clothing,Jerseys,31.7244,Multi,Long-Sleeve Logo Jersey,Outdate
+230,21,"Long-Sleeve Logo Jersey, M",Clothing,Jerseys,29.0807,Multi,Long-Sleeve Logo Jersey,Outdate
+231,21,"Long-Sleeve Logo Jersey, M",Clothing,Jerseys,38.4923,Multi,Long-Sleeve Logo Jersey,Current
+232,21,"Long-Sleeve Logo Jersey, L",Clothing,Jerseys,31.7244,Multi,Long-Sleeve Logo Jersey,Outdate
+233,21,"Long-Sleeve Logo Jersey, L",Clothing,Jerseys,29.0807,Multi,Long-Sleeve Logo Jersey,Outdate
+234,21,"Long-Sleeve Logo Jersey, L",Clothing,Jerseys,38.4923,Multi,Long-Sleeve Logo Jersey,Current
+235,21,"Long-Sleeve Logo Jersey, XL",Clothing,Jerseys,31.7244,Multi,Long-Sleeve Logo Jersey,Outdate
+236,21,"Long-Sleeve Logo Jersey, XL",Clothing,Jerseys,29.0807,Multi,Long-Sleeve Logo Jersey,Outdate
+237,21,"Long-Sleeve Logo Jersey, XL",Clothing,Jerseys,38.4923,Multi,Long-Sleeve Logo Jersey,Current
+238,14,"HL Road Frame - Red, 62",Components,Road Frames,747.9682,Red,HL Road Frame,Outdate
+239,14,"HL Road Frame - Red, 62",Components,Road Frames,722.2568,Red,HL Road Frame,Outdate
+240,14,"HL Road Frame - Red, 62",Components,Road Frames,868.6342,Red,HL Road Frame,Current
+241,14,"HL Road Frame - Red, 44",Components,Road Frames,747.9682,Red,HL Road Frame,Outdate
+242,14,"HL Road Frame - Red, 44",Components,Road Frames,722.2568,Red,HL Road Frame,Outdate
+243,14,"HL Road Frame - Red, 44",Components,Road Frames,868.6342,Red,HL Road Frame,Current
+244,14,"HL Road Frame - Red, 48",Components,Road Frames,747.9682,Red,HL Road Frame,Outdate
+245,14,"HL Road Frame - Red, 48",Components,Road Frames,722.2568,Red,HL Road Frame,Outdate
+246,14,"HL Road Frame - Red, 48",Components,Road Frames,868.6342,Red,HL Road Frame,Current
+247,14,"HL Road Frame - Red, 52",Components,Road Frames,747.9682,Red,HL Road Frame,Outdate
+248,14,"HL Road Frame - Red, 52",Components,Road Frames,722.2568,Red,HL Road Frame,Outdate
+249,14,"HL Road Frame - Red, 52",Components,Road Frames,868.6342,Red,HL Road Frame,Current
+250,14,"HL Road Frame - Red, 56",Components,Road Frames,747.9682,Red,HL Road Frame,Outdate
+251,14,"HL Road Frame - Red, 56",Components,Road Frames,722.2568,Red,HL Road Frame,Outdate
+252,14,"HL Road Frame - Red, 56",Components,Road Frames,868.6342,Red,HL Road Frame,Current
+253,14,"LL Road Frame - Black, 58",Components,Road Frames,176.1997,Black,LL Road Frame,Outdate
+254,14,"LL Road Frame - Black, 58",Components,Road Frames,170.1428,Black,LL Road Frame,Outdate
+255,14,"LL Road Frame - Black, 58",Components,Road Frames,204.6251,Black,LL Road Frame,Current
+256,14,"LL Road Frame - Black, 60",Components,Road Frames,176.1997,Black,LL Road Frame,Outdate
+257,14,"LL Road Frame - Black, 60",Components,Road Frames,170.1428,Black,LL Road Frame,Outdate
+258,14,"LL Road Frame - Black, 60",Components,Road Frames,204.6251,Black,LL Road Frame,Current
+259,14,"LL Road Frame - Black, 62",Components,Road Frames,176.1997,Black,LL Road Frame,Outdate
+260,14,"LL Road Frame - Black, 62",Components,Road Frames,170.1428,Black,LL Road Frame,Outdate
+261,14,"LL Road Frame - Black, 62",Components,Road Frames,204.6251,Black,LL Road Frame,Current
+262,14,"LL Road Frame - Red, 44",Components,Road Frames,181.4857,Red,LL Road Frame,Outdate
+263,14,"LL Road Frame - Red, 44",Components,Road Frames,187.1571,Red,LL Road Frame,Outdate
+264,14,"LL Road Frame - Red, 48",Components,Road Frames,181.4857,Red,LL Road Frame,Outdate
+265,14,"LL Road Frame - Red, 48",Components,Road Frames,187.1571,Red,LL Road Frame,Outdate
+266,14,"LL Road Frame - Red, 52",Components,Road Frames,181.4857,Red,LL Road Frame,Outdate
+267,14,"LL Road Frame - Red, 52",Components,Road Frames,187.1571,Red,LL Road Frame,Outdate
+268,14,"LL Road Frame - Red, 58",Components,Road Frames,181.4857,Red,LL Road Frame,Outdate
+269,14,"LL Road Frame - Red, 58",Components,Road Frames,187.1571,Red,LL Road Frame,Outdate
+270,14,"LL Road Frame - Red, 60",Components,Road Frames,181.4857,Red,LL Road Frame,Outdate
+271,14,"LL Road Frame - Red, 60",Components,Road Frames,187.1571,Red,LL Road Frame,Outdate
+272,14,"LL Road Frame - Red, 62",Components,Road Frames,181.4857,Red,LL Road Frame,Outdate
+273,14,"LL Road Frame - Red, 62",Components,Road Frames,187.1571,Red,LL Road Frame,Outdate
+274,14,"ML Road Frame - Red, 44",Components,Road Frames,352.1394,Red,ML Road Frame,Outdate
+275,14,"ML Road Frame - Red, 48",Components,Road Frames,352.1394,Red,ML Road Frame,Outdate
+276,14,"ML Road Frame - Red, 52",Components,Road Frames,352.1394,Red,ML Road Frame,Outdate
+277,14,"ML Road Frame - Red, 58",Components,Road Frames,352.1394,Red,ML Road Frame,Outdate
+278,14,"ML Road Frame - Red, 60",Components,Road Frames,352.1394,Red,ML Road Frame,Outdate
+279,14,"LL Road Frame - Black, 44",Components,Road Frames,176.1997,Black,LL Road Frame,Outdate
+280,14,"LL Road Frame - Black, 44",Components,Road Frames,170.1428,Black,LL Road Frame,Outdate
+281,14,"LL Road Frame - Black, 44",Components,Road Frames,204.6251,Black,LL Road Frame,Current
+282,14,"LL Road Frame - Black, 48",Components,Road Frames,176.1997,Black,LL Road Frame,Outdate
+283,14,"LL Road Frame - Black, 48",Components,Road Frames,170.1428,Black,LL Road Frame,Outdate
+284,14,"LL Road Frame - Black, 48",Components,Road Frames,204.6251,Black,LL Road Frame,Current
+285,14,"LL Road Frame - Black, 52",Components,Road Frames,176.1997,Black,LL Road Frame,Outdate
+286,14,"LL Road Frame - Black, 52",Components,Road Frames,170.1428,Black,LL Road Frame,Outdate
+287,14,"LL Road Frame - Black, 52",Components,Road Frames,204.6251,Black,LL Road Frame,Current
+288,12,"HL Mountain Frame - Silver, 42",Components,Mountain Frames,623.8403,Silver,HL Mountain Frame,Outdate
+289,12,"HL Mountain Frame - Silver, 42",Components,Mountain Frames,660.9142,Silver,HL Mountain Frame,Outdate
+290,12,"HL Mountain Frame - Silver, 42",Components,Mountain Frames,747.2002,Silver,HL Mountain Frame,Current
+291,12,"HL Mountain Frame - Silver, 44",Components,Mountain Frames,706.811,Silver,HL Mountain Frame,Outdate
+292,12,"HL Mountain Frame - Silver, 48",Components,Mountain Frames,706.811,Silver,HL Mountain Frame,Outdate
+293,12,"HL Mountain Frame - Silver, 46",Components,Mountain Frames,623.8403,Silver,HL Mountain Frame,Outdate
+294,12,"HL Mountain Frame - Silver, 46",Components,Mountain Frames,660.9142,Silver,HL Mountain Frame,Outdate
+295,12,"HL Mountain Frame - Silver, 46",Components,Mountain Frames,747.2002,Silver,HL Mountain Frame,Current
+296,12,"HL Mountain Frame - Black, 42",Components,Mountain Frames,617.0281,Black,HL Mountain Frame,Outdate
+297,12,"HL Mountain Frame - Black, 42",Components,Mountain Frames,653.6971,Black,HL Mountain Frame,Outdate
+298,12,"HL Mountain Frame - Black, 42",Components,Mountain Frames,739.041,Black,HL Mountain Frame,Current
+299,12,"HL Mountain Frame - Black, 44",Components,Mountain Frames,699.0928,Black,HL Mountain Frame,Outdate
+300,12,"HL Mountain Frame - Black, 48",Components,Mountain Frames,699.0928,Black,HL Mountain Frame,Outdate
+301,12,"HL Mountain Frame - Black, 46",Components,Mountain Frames,617.0281,Black,HL Mountain Frame,Outdate
+302,12,"HL Mountain Frame - Black, 46",Components,Mountain Frames,653.6971,Black,HL Mountain Frame,Outdate
+303,12,"HL Mountain Frame - Black, 46",Components,Mountain Frames,739.041,Black,HL Mountain Frame,Current
+304,12,"HL Mountain Frame - Black, 38",Components,Mountain Frames,617.0281,Black,HL Mountain Frame,Outdate
+305,12,"HL Mountain Frame - Black, 38",Components,Mountain Frames,653.6971,Black,HL Mountain Frame,Outdate
+306,12,"HL Mountain Frame - Black, 38",Components,Mountain Frames,739.041,Black,HL Mountain Frame,Current
+307,12,"HL Mountain Frame - Silver, 38",Components,Mountain Frames,623.8403,Silver,HL Mountain Frame,Outdate
+308,12,"HL Mountain Frame - Silver, 38",Components,Mountain Frames,660.9142,Silver,HL Mountain Frame,Outdate
+309,12,"HL Mountain Frame - Silver, 38",Components,Mountain Frames,747.2002,Silver,HL Mountain Frame,Current
+310,2,"Road-150 Red, 62",Bikes,Road Bikes,2171.2942,Red,Road-150,Outdate
+311,2,"Road-150 Red, 44",Bikes,Road Bikes,2171.2942,Red,Road-150,Outdate
+312,2,"Road-150 Red, 48",Bikes,Road Bikes,2171.2942,Red,Road-150,Outdate
+313,2,"Road-150 Red, 52",Bikes,Road Bikes,2171.2942,Red,Road-150,Outdate
+314,2,"Road-150 Red, 56",Bikes,Road Bikes,2171.2942,Red,Road-150,Outdate
+315,2,"Road-450 Red, 58",Bikes,Road Bikes,884.7083,Red,Road-450,Outdate
+316,2,"Road-450 Red, 60",Bikes,Road Bikes,884.7083,Red,Road-450,Outdate
+317,2,"Road-450 Red, 44",Bikes,Road Bikes,884.7083,Red,Road-450,Outdate
+318,2,"Road-450 Red, 48",Bikes,Road Bikes,884.7083,Red,Road-450,Outdate
+319,2,"Road-450 Red, 52",Bikes,Road Bikes,884.7083,Red,Road-450,Outdate
+320,2,"Road-650 Red, 58",Bikes,Road Bikes,413.1463,Red,Road-650,Outdate
+321,2,"Road-650 Red, 58",Bikes,Road Bikes,486.7066,Red,Road-650,Outdate
+322,2,"Road-650 Red, 60",Bikes,Road Bikes,413.1463,Red,Road-650,Outdate
+323,2,"Road-650 Red, 60",Bikes,Road Bikes,486.7066,Red,Road-650,Outdate
+324,2,"Road-650 Red, 62",Bikes,Road Bikes,413.1463,Red,Road-650,Outdate
+325,2,"Road-650 Red, 62",Bikes,Road Bikes,486.7066,Red,Road-650,Outdate
+326,2,"Road-650 Red, 44",Bikes,Road Bikes,413.1463,Red,Road-650,Outdate
+327,2,"Road-650 Red, 44",Bikes,Road Bikes,486.7066,Red,Road-650,Outdate
+328,2,"Road-650 Red, 48",Bikes,Road Bikes,413.1463,Red,Road-650,Outdate
+329,2,"Road-650 Red, 48",Bikes,Road Bikes,486.7066,Red,Road-650,Outdate
+330,2,"Road-650 Red, 52",Bikes,Road Bikes,413.1463,Red,Road-650,Outdate
+331,2,"Road-650 Red, 52",Bikes,Road Bikes,486.7066,Red,Road-650,Outdate
+332,2,"Road-650 Black, 58",Bikes,Road Bikes,413.1463,Black,Road-650,Outdate
+333,2,"Road-650 Black, 58",Bikes,Road Bikes,486.7066,Black,Road-650,Outdate
+334,2,"Road-650 Black, 60",Bikes,Road Bikes,413.1463,Black,Road-650,Outdate
+335,2,"Road-650 Black, 60",Bikes,Road Bikes,486.7066,Black,Road-650,Outdate
+336,2,"Road-650 Black, 62",Bikes,Road Bikes,413.1463,Black,Road-650,Outdate
+337,2,"Road-650 Black, 62",Bikes,Road Bikes,486.7066,Black,Road-650,Outdate
+338,2,"Road-650 Black, 44",Bikes,Road Bikes,413.1463,Black,Road-650,Outdate
+339,2,"Road-650 Black, 44",Bikes,Road Bikes,486.7066,Black,Road-650,Outdate
+340,2,"Road-650 Black, 48",Bikes,Road Bikes,413.1463,Black,Road-650,Outdate
+341,2,"Road-650 Black, 48",Bikes,Road Bikes,486.7066,Black,Road-650,Outdate
+342,2,"Road-650 Black, 52",Bikes,Road Bikes,413.1463,Black,Road-650,Outdate
+343,2,"Road-650 Black, 52",Bikes,Road Bikes,486.7066,Black,Road-650,Outdate
+344,1,"Mountain-100 Silver, 38",Bikes,Mountain Bikes,1912.1544,Silver,Mountain-100,Outdate
+345,1,"Mountain-100 Silver, 42",Bikes,Mountain Bikes,1912.1544,Silver,Mountain-100,Outdate
+346,1,"Mountain-100 Silver, 44",Bikes,Mountain Bikes,1912.1544,Silver,Mountain-100,Outdate
+347,1,"Mountain-100 Silver, 48",Bikes,Mountain Bikes,1912.1544,Silver,Mountain-100,Outdate
+348,1,"Mountain-100 Black, 38",Bikes,Mountain Bikes,1898.0944,Black,Mountain-100,Outdate
+349,1,"Mountain-100 Black, 42",Bikes,Mountain Bikes,1898.0944,Black,Mountain-100,Outdate
+350,1,"Mountain-100 Black, 44",Bikes,Mountain Bikes,1898.0944,Black,Mountain-100,Outdate
+351,1,"Mountain-100 Black, 48",Bikes,Mountain Bikes,1898.0944,Black,Mountain-100,Outdate
+352,1,"Mountain-200 Silver, 38",Bikes,Mountain Bikes,1117.8559,Silver,Mountain-200,Outdate
+353,1,"Mountain-200 Silver, 38",Bikes,Mountain Bikes,1265.6195,Silver,Mountain-200,Current
+354,1,"Mountain-200 Silver, 42",Bikes,Mountain Bikes,1117.8559,Silver,Mountain-200,Outdate
+355,1,"Mountain-200 Silver, 42",Bikes,Mountain Bikes,1265.6195,Silver,Mountain-200,Current
+356,1,"Mountain-200 Silver, 46",Bikes,Mountain Bikes,1117.8559,Silver,Mountain-200,Outdate
+357,1,"Mountain-200 Silver, 46",Bikes,Mountain Bikes,1265.6195,Silver,Mountain-200,Current
+358,1,"Mountain-200 Black, 38",Bikes,Mountain Bikes,1105.81,Black,Mountain-200,Outdate
+359,1,"Mountain-200 Black, 38",Bikes,Mountain Bikes,1251.9813,Black,Mountain-200,Current
+360,1,"Mountain-200 Black, 42",Bikes,Mountain Bikes,1105.81,Black,Mountain-200,Outdate
+361,1,"Mountain-200 Black, 42",Bikes,Mountain Bikes,1251.9813,Black,Mountain-200,Current
+362,1,"Mountain-200 Black, 46",Bikes,Mountain Bikes,1105.81,Black,Mountain-200,Outdate
+363,1,"Mountain-200 Black, 46",Bikes,Mountain Bikes,1251.9813,Black,Mountain-200,Current
+364,1,"Mountain-300 Black, 38",Bikes,Mountain Bikes,598.4354,Black,Mountain-300,Outdate
+365,1,"Mountain-300 Black, 40",Bikes,Mountain Bikes,598.4354,Black,Mountain-300,Outdate
+366,1,"Mountain-300 Black, 44",Bikes,Mountain Bikes,598.4354,Black,Mountain-300,Outdate
+367,1,"Mountain-300 Black, 48",Bikes,Mountain Bikes,598.4354,Black,Mountain-300,Outdate
+368,2,"Road-250 Red, 44",Bikes,Road Bikes,1518.7864,Red,Road-250,Outdate
+369,2,"Road-250 Red, 48",Bikes,Road Bikes,1518.7864,Red,Road-250,Outdate
+370,2,"Road-250 Red, 52",Bikes,Road Bikes,1518.7864,Red,Road-250,Outdate
+371,2,"Road-250 Red, 58",Bikes,Road Bikes,1320.6838,Red,Road-250,Outdate
+372,2,"Road-250 Red, 58",Bikes,Road Bikes,1554.9479,Red,Road-250,Current
+373,2,"Road-250 Black, 44",Bikes,Road Bikes,1320.6838,Black,Road-250,Outdate
+374,2,"Road-250 Black, 44",Bikes,Road Bikes,1554.9479,Black,Road-250,Current
+375,2,"Road-250 Black, 48",Bikes,Road Bikes,1320.6838,Black,Road-250,Outdate
+376,2,"Road-250 Black, 48",Bikes,Road Bikes,1554.9479,Black,Road-250,Current
+377,2,"Road-250 Black, 52",Bikes,Road Bikes,1320.6838,Black,Road-250,Outdate
+378,2,"Road-250 Black, 52",Bikes,Road Bikes,1554.9479,Black,Road-250,Current
+379,2,"Road-250 Black, 58",Bikes,Road Bikes,1320.6838,Black,Road-250,Outdate
+380,2,"Road-250 Black, 58",Bikes,Road Bikes,1554.9479,Black,Road-250,Current
+381,2,"Road-550-W Yellow, 38",Bikes,Road Bikes,605.6492,Yellow,Road-550-W,Outdate
+382,2,"Road-550-W Yellow, 38",Bikes,Road Bikes,713.0798,Yellow,Road-550-W,Current
+383,2,"Road-550-W Yellow, 40",Bikes,Road Bikes,605.6492,Yellow,Road-550-W,Outdate
+384,2,"Road-550-W Yellow, 40",Bikes,Road Bikes,713.0798,Yellow,Road-550-W,Current
+385,2,"Road-550-W Yellow, 42",Bikes,Road Bikes,605.6492,Yellow,Road-550-W,Outdate
+386,2,"Road-550-W Yellow, 42",Bikes,Road Bikes,713.0798,Yellow,Road-550-W,Current
+387,2,"Road-550-W Yellow, 44",Bikes,Road Bikes,605.6492,Yellow,Road-550-W,Outdate
+388,2,"Road-550-W Yellow, 44",Bikes,Road Bikes,713.0798,Yellow,Road-550-W,Current
+389,2,"Road-550-W Yellow, 48",Bikes,Road Bikes,605.6492,Yellow,Road-550-W,Outdate
+390,2,"Road-550-W Yellow, 48",Bikes,Road Bikes,713.0798,Yellow,Road-550-W,Current
+391,10,LL Fork,Components,Forks,65.8097,NA,LL Fork,Outdate
+392,10,ML Fork,Components,Forks,77.9176,NA,ML Fork,Outdate
+393,10,HL Fork,Components,Forks,101.8936,NA,HL Fork,Outdate
+394,11,LL Headset,Components,Headsets,15.1848,NA,LL Headset,Outdate
+395,11,ML Headset,Components,Headsets,45.4168,NA,ML Headset,Outdate
+396,11,HL Headset,Components,Headsets,55.3801,NA,HL Headset,Outdate
+397,4,LL Mountain Handlebars,Components,Handlebars,17.978,NA,LL Mountain Handlebars,Outdate
+398,4,LL Mountain Handlebars,Components,Handlebars,19.7758,NA,LL Mountain Handlebars,Current
+399,4,ML Mountain Handlebars,Components,Handlebars,24.9932,NA,ML Mountain Handlebars,Outdate
+400,4,ML Mountain Handlebars,Components,Handlebars,27.4925,NA,ML Mountain Handlebars,Current
+401,4,HL Mountain Handlebars,Components,Handlebars,48.5453,NA,HL Mountain Handlebars,Outdate
+402,4,HL Mountain Handlebars,Components,Handlebars,53.3999,NA,HL Mountain Handlebars,Current
+403,4,LL Road Handlebars,Components,Handlebars,17.978,NA,LL Road Handlebars,Outdate
+404,4,LL Road Handlebars,Components,Handlebars,19.7758,NA,LL Road Handlebars,Current
+405,4,ML Road Handlebars,Components,Handlebars,24.9932,NA,ML Road Handlebars,Outdate
+406,4,ML Road Handlebars,Components,Handlebars,27.4925,NA,ML Road Handlebars,Current
+407,4,HL Road Handlebars,Components,Handlebars,48.5453,NA,HL Road Handlebars,Outdate
+408,4,HL Road Handlebars,Components,Handlebars,53.3999,NA,HL Road Handlebars,Current
+409,12,"ML Mountain Frame - Black, 38",Components,Mountain Frames,185.8193,Black,ML Mountain Frame-W,Outdate
+410,17,LL Mountain Front Wheel,Components,Wheels,26.9708,Black,LL Mountain Front Wheel,Outdate
+411,17,ML Mountain Front Wheel,Components,Wheels,92.8071,Black,ML Mountain Front Wheel,Outdate
+412,17,HL Mountain Front Wheel,Components,Wheels,133.2955,Black,HL Mountain Front Wheel,Outdate
+413,17,LL Road Front Wheel,Components,Wheels,37.9909,Black,LL Road Front Wheel,Outdate
+414,17,ML Road Front Wheel,Components,Wheels,110.2829,Black,ML Road Front Wheel,Outdate
+415,17,HL Road Front Wheel,Components,Wheels,146.5466,Black,HL Road Front Wheel,Outdate
+416,17,Touring Front Wheel,Components,Wheels,96.7964,Black,Touring Front Wheel,Outdate
+417,14,"ML Road Frame-W - Yellow, 38",Components,Road Frames,300.1188,Yellow,ML Road Frame-W,Outdate
+418,14,"ML Road Frame-W - Yellow, 38",Components,Road Frames,360.9428,Yellow,ML Road Frame-W,Current
+419,17,LL Mountain Rear Wheel,Components,Wheels,38.9588,Black,LL Mountain Rear Wheel,Outdate
+420,17,ML Mountain Rear Wheel,Components,Wheels,104.7951,Black,ML Mountain Rear Wheel,Outdate
+421,17,HL Mountain Rear Wheel,Components,Wheels,145.2835,Black,HL Mountain Rear Wheel,Outdate
+422,17,LL Road Rear Wheel,Components,Wheels,49.9789,Black,LL Road Rear Wheel,Outdate
+423,17,ML Road Rear Wheel,Components,Wheels,122.2709,Black,ML Road Rear Wheel,Outdate
+424,17,HL Road Rear Wheel,Components,Wheels,158.5346,Black,HL Road Rear Wheel,Outdate
+425,17,Touring Rear Wheel,Components,Wheels,108.7844,Black,Touring Rear Wheel,Outdate
+426,12,"ML Mountain Frame - Black, 40",Components,Mountain Frames,185.8193,Black,ML Mountain Frame,Outdate
+427,12,"ML Mountain Frame - Black, 44",Components,Mountain Frames,185.8193,Black,ML Mountain Frame,Outdate
+428,12,"ML Mountain Frame - Black, 48",Components,Mountain Frames,185.8193,Black,ML Mountain Frame,Outdate
+429,14,"ML Road Frame-W - Yellow, 40",Components,Road Frames,300.1188,Yellow,ML Road Frame-W,Outdate
+430,14,"ML Road Frame-W - Yellow, 40",Components,Road Frames,360.9428,Yellow,ML Road Frame-W,Current
+431,14,"ML Road Frame-W - Yellow, 42",Components,Road Frames,300.1188,Yellow,ML Road Frame-W,Outdate
+432,14,"ML Road Frame-W - Yellow, 42",Components,Road Frames,360.9428,Yellow,ML Road Frame-W,Current
+433,14,"ML Road Frame-W - Yellow, 44",Components,Road Frames,300.1188,Yellow,ML Road Frame-W,Outdate
+434,14,"ML Road Frame-W - Yellow, 44",Components,Road Frames,360.9428,Yellow,ML Road Frame-W,Current
+435,14,"ML Road Frame-W - Yellow, 48",Components,Road Frames,300.1188,Yellow,ML Road Frame-W,Outdate
+436,14,"ML Road Frame-W - Yellow, 48",Components,Road Frames,360.9428,Yellow,ML Road Frame-W,Current
+437,14,"HL Road Frame - Black, 62",Components,Road Frames,722.2568,Black,HL Road Frame,Outdate
+438,14,"HL Road Frame - Black, 62",Components,Road Frames,868.6342,Black,HL Road Frame,Current
+439,14,"HL Road Frame - Black, 44",Components,Road Frames,722.2568,Black,HL Road Frame,Outdate
+440,14,"HL Road Frame - Black, 44",Components,Road Frames,868.6342,Black,HL Road Frame,Current
+441,14,"HL Road Frame - Black, 48",Components,Road Frames,722.2568,Black,HL Road Frame,Outdate
+442,14,"HL Road Frame - Black, 48",Components,Road Frames,868.6342,Black,HL Road Frame,Current
+443,14,"HL Road Frame - Black, 52",Components,Road Frames,722.2568,Black,HL Road Frame,Outdate
+444,14,"HL Road Frame - Black, 52",Components,Road Frames,868.6342,Black,HL Road Frame,Current
+445,22,"Men's Sports Shorts, S",Clothing,Shorts,24.7459,Black,Men's Sports Shorts,Outdate
+446,35,"Touring-Panniers, Large",Accessories,Panniers,51.5625,Grey,Touring-Panniers,Outdate
+447,34,Cable Lock,Accessories,Locks,10.3125,NA,Cable Lock,Outdate
+448,36,Minipump,Accessories,Pumps,8.2459,NA,Minipump,Outdate
+449,36,Mountain Pump,Accessories,Pumps,10.3084,NA,Mountain Pump,Outdate
+450,33,Taillights - Battery-Powered,Accessories,Lights,5.7709,NA,Taillight,Outdate
+451,33,Headlights - Dual-Beam,Accessories,Lights,14.4334,NA,Headlights - Dual-Beam,Outdate
+452,33,Headlights - Weatherproof,Accessories,Lights,18.5584,NA,Headlights - Weatherproof,Outdate
+453,22,"Men's Sports Shorts, M",Clothing,Shorts,24.7459,Black,Men's Sports Shorts,Outdate
+454,22,"Men's Sports Shorts, L",Clothing,Shorts,24.7459,Black,Men's Sports Shorts,Outdate
+455,22,"Men's Sports Shorts, XL",Clothing,Shorts,24.7459,Black,Men's Sports Shorts,Outdate
+456,24,"Women's Tights, S",Clothing,Tights,30.9334,Black,Women's Tights,Outdate
+457,24,"Women's Tights, M",Clothing,Tights,30.9334,Black,Women's Tights,Outdate
+458,24,"Women's Tights, L",Clothing,Tights,30.9334,Black,Women's Tights,Outdate
+459,18,"Men's Bib-Shorts, S",Clothing,Bib-Shorts,37.1209,Multi,Men's Bib-Shorts,Outdate
+460,18,"Men's Bib-Shorts, M",Clothing,Bib-Shorts,37.1209,Multi,Men's Bib-Shorts,Outdate
+461,18,"Men's Bib-Shorts, L",Clothing,Bib-Shorts,37.1209,Multi,Men's Bib-Shorts,Outdate
+462,20,"Half-Finger Gloves, S",Clothing,Gloves,9.7136,Black,Half-Finger Gloves,Outdate
+463,20,"Half-Finger Gloves, S",Clothing,Gloves,9.1593,Black,Half-Finger Gloves,Current
+464,20,"Half-Finger Gloves, M",Clothing,Gloves,9.7136,Black,Half-Finger Gloves,Outdate
+465,20,"Half-Finger Gloves, M",Clothing,Gloves,9.1593,Black,Half-Finger Gloves,Current
+466,20,"Half-Finger Gloves, L",Clothing,Gloves,9.7136,Black,Half-Finger Gloves,Outdate
+467,20,"Half-Finger Gloves, L",Clothing,Gloves,9.1593,Black,Half-Finger Gloves,Current
+468,20,"Full-Finger Gloves, S",Clothing,Gloves,15.6709,Black,Full-Finger Gloves,Outdate
+469,20,"Full-Finger Gloves, M",Clothing,Gloves,15.6709,Black,Full-Finger Gloves,Outdate
+470,20,"Full-Finger Gloves, L",Clothing,Gloves,15.6709,Black,Full-Finger Gloves,Outdate
+471,25,"Classic Vest, S",Clothing,Vests,23.749,Blue,Classic Vest,Current
+472,25,"Classic Vest, M",Clothing,Vests,23.749,Blue,Classic Vest,Current
+473,25,"Classic Vest, L",Clothing,Vests,23.749,Blue,Classic Vest,Current
+474,22,"Women's Mountain Shorts, S",Clothing,Shorts,26.1763,Black,Women's Mountain Shorts,Current
+475,22,"Women's Mountain Shorts, M",Clothing,Shorts,26.1763,Black,Women's Mountain Shorts,Current
+476,22,"Women's Mountain Shorts, L",Clothing,Shorts,26.1763,Black,Women's Mountain Shorts,Current
+477,28,Water Bottle - 30 oz.,Accessories,Bottles and Cages,1.8663,NA,Water Bottle,Current
+478,28,Mountain Bottle Cage,Accessories,Bottles and Cages,3.7363,NA,Mountain Bottle Cage,Current
+479,28,Road Bottle Cage,Accessories,Bottles and Cages,3.3623,NA,Road Bottle Cage,Current
+480,37,Patch Kit/8 Patches,Accessories,Tires and Tubes,0.8565,NA,Patch kit,Current
+481,23,"Racing Socks, M",Clothing,Socks,3.3623,White,Racing Socks,Current
+482,23,"Racing Socks, L",Clothing,Socks,3.3623,White,Racing Socks,Current
+483,26,Hitch Rack - 4-Bike,Accessories,Bike Racks,44.88,NA,Hitch Rack - 4-Bike,Current
+484,29,Bike Wash - Dissolver,Accessories,Cleaners,2.9733,NA,Bike Wash,Current
+485,30,Fender Set - Mountain,Accessories,Fenders,8.2205,NA,Fender Set - Mountain,Current
+486,27,All-Purpose Bike Stand,Accessories,Bike Stands,59.466,NA,All-Purpose Bike Stand,Current
+487,32,Hydration Pack - 70 oz.,Accessories,Hydration Packs,20.5663,Silver,Hydration Pack,Current
+488,21,"Short-Sleeve Classic Jersey, S",Clothing,Jerseys,41.5723,Yellow,Short-Sleeve Classic Jersey,Current
+489,21,"Short-Sleeve Classic Jersey, M",Clothing,Jerseys,41.5723,Yellow,Short-Sleeve Classic Jersey,Current
+490,21,"Short-Sleeve Classic Jersey, L",Clothing,Jerseys,41.5723,Yellow,Short-Sleeve Classic Jersey,Current
+491,21,"Short-Sleeve Classic Jersey, XL",Clothing,Jerseys,41.5723,Yellow,Short-Sleeve Classic Jersey,Current
+492,16,"HL Touring Frame - Yellow, 60",Components,Touring Frames,601.7437,Yellow,HL Touring Frame,Current
+493,16,"LL Touring Frame - Yellow, 62",Components,Touring Frames,199.8519,Yellow,LL Touring Frame,Current
+494,16,"HL Touring Frame - Yellow, 46",Components,Touring Frames,601.7437,Yellow,HL Touring Frame,Current
+495,16,"HL Touring Frame - Yellow, 50",Components,Touring Frames,601.7437,Yellow,HL Touring Frame,Current
+496,16,"HL Touring Frame - Yellow, 54",Components,Touring Frames,601.7437,Yellow,HL Touring Frame,Current
+497,16,"HL Touring Frame - Blue, 46",Components,Touring Frames,601.7437,Blue,HL Touring Frame,Current
+498,16,"HL Touring Frame - Blue, 50",Components,Touring Frames,601.7437,Blue,HL Touring Frame,Current
+499,16,"HL Touring Frame - Blue, 54",Components,Touring Frames,601.7437,Blue,HL Touring Frame,Current
+500,16,"HL Touring Frame - Blue, 60",Components,Touring Frames,601.7437,Blue,HL Touring Frame,Current
+501,9,Rear Derailleur,Components,Derailleurs,53.9282,Silver,Rear Derailleur,Current
+502,16,"LL Touring Frame - Blue, 50",Components,Touring Frames,199.8519,Blue,LL Touring Frame,Current
+503,16,"LL Touring Frame - Blue, 54",Components,Touring Frames,199.8519,Blue,LL Touring Frame,Current
+504,16,"LL Touring Frame - Blue, 58",Components,Touring Frames,199.8519,Blue,LL Touring Frame,Current
+505,16,"LL Touring Frame - Blue, 62",Components,Touring Frames,199.8519,Blue,LL Touring Frame,Current
+506,16,"LL Touring Frame - Yellow, 44",Components,Touring Frames,199.8519,Yellow,LL Touring Frame,Current
+507,16,"LL Touring Frame - Yellow, 50",Components,Touring Frames,199.8519,Yellow,LL Touring Frame,Current
+508,16,"LL Touring Frame - Yellow, 54",Components,Touring Frames,199.8519,Yellow,LL Touring Frame,Current
+509,16,"LL Touring Frame - Yellow, 58",Components,Touring Frames,199.8519,Yellow,LL Touring Frame,Current
+510,16,"LL Touring Frame - Blue, 44",Components,Touring Frames,199.8519,Blue,LL Touring Frame,Current
+511,12,"ML Mountain Frame-W - Silver, 40",Components,Mountain Frames,199.3757,Silver,ML Mountain Frame-W,Current
+512,12,"ML Mountain Frame-W - Silver, 42",Components,Mountain Frames,199.3757,Silver,ML Mountain Frame-W,Current
+513,12,"ML Mountain Frame-W - Silver, 46",Components,Mountain Frames,199.3757,Silver,ML Mountain Frame-W,Current
+514,6,Rear Brakes,Components,Brakes,47.286,Silver,Rear Brakes,Current
+515,15,LL Mountain Seat/Saddle,Components,Saddles,12.0413,NA,LL Mountain Seat/Saddle 2,Current
+516,15,ML Mountain Seat/Saddle,Components,Saddles,17.3782,NA,ML Mountain Seat/Saddle 2,Current
+517,15,HL Mountain Seat/Saddle,Components,Saddles,23.3722,NA,HL Mountain Seat/Saddle 2,Current
+518,15,LL Road Seat/Saddle,Components,Saddles,12.0413,NA,LL Road Seat/Saddle 1,Current
+519,15,ML Road Seat/Saddle,Components,Saddles,17.3782,NA,ML Road Seat/Saddle 2,Current
+520,15,HL Road Seat/Saddle,Components,Saddles,23.3722,NA,HL Road Seat/Saddle 2,Current
+521,15,LL Touring Seat/Saddle,Components,Saddles,12.0413,NA,LL Touring Seat/Saddle,Current
+522,15,ML Touring Seat/Saddle,Components,Saddles,17.3782,NA,ML Touring Seat/Saddle,Current
+523,15,HL Touring Seat/Saddle,Components,Saddles,23.3722,NA,HL Touring Seat/Saddle,Current
+524,12,"LL Mountain Frame - Silver, 42",Components,Mountain Frames,144.5938,Silver,LL Mountain Frame,Current
+525,12,"LL Mountain Frame - Silver, 44",Components,Mountain Frames,144.5938,Silver,LL Mountain Frame,Current
+526,12,"LL Mountain Frame - Silver, 48",Components,Mountain Frames,144.5938,Silver,LL Mountain Frame,Current
+527,12,"LL Mountain Frame - Silver, 52",Components,Mountain Frames,144.5938,Silver,LL Mountain Frame,Current
+528,37,Mountain Tire Tube,Accessories,Tires and Tubes,1.8663,NA,Mountain Tire Tube,Current
+529,37,Road Tire Tube,Accessories,Tires and Tubes,1.4923,NA,Road Tire Tube,Current
+530,37,Touring Tire Tube,Accessories,Tires and Tubes,1.8663,NA,Touring Tire Tube,Current
+531,12,"LL Mountain Frame - Black, 42",Components,Mountain Frames,136.785,Black,LL Mountain Frame,Current
+532,12,"LL Mountain Frame - Black, 44",Components,Mountain Frames,136.785,Black,LL Mountain Frame,Current
+533,12,"LL Mountain Frame - Black, 48",Components,Mountain Frames,136.785,Black,LL Mountain Frame,Current
+534,12,"LL Mountain Frame - Black, 52",Components,Mountain Frames,136.785,Black,LL Mountain Frame,Current
+535,37,LL Mountain Tire,Accessories,Tires and Tubes,9.3463,NA,LL Mountain Tire,Current
+536,37,ML Mountain Tire,Accessories,Tires and Tubes,11.2163,NA,ML Mountain Tire,Current
+537,37,HL Mountain Tire,Accessories,Tires and Tubes,13.09,NA,HL Mountain Tire,Current
+538,37,LL Road Tire,Accessories,Tires and Tubes,8.0373,NA,LL Road Tire,Current
+539,37,ML Road Tire,Accessories,Tires and Tubes,9.3463,NA,ML Road Tire,Current
+540,37,HL Road Tire,Accessories,Tires and Tubes,12.1924,NA,HL Road Tire,Current
+541,37,Touring Tire,Accessories,Tires and Tubes,10.8423,NA,Touring Tire,Current
+542,13,LL Mountain Pedal,Components,Pedals,17.9776,Silver/Black,LL Mountain Pedal,Current
+543,13,ML Mountain Pedal,Components,Pedals,27.568,Silver/Black,ML Mountain Pedal,Current
+544,13,HL Mountain Pedal,Components,Pedals,35.9596,Silver/Black,HL Mountain Pedal,Current
+545,13,LL Road Pedal,Components,Pedals,17.9776,Silver/Black,LL Road Pedal,Current
+546,13,ML Road Pedal,Components,Pedals,27.568,Silver/Black,ML Road Pedal,Current
+547,13,HL Road Pedal,Components,Pedals,35.9596,Silver/Black,HL Road Pedal,Current
+548,13,Touring Pedal,Components,Pedals,35.9596,Silver/Black,Touring Pedal,Current
+549,12,"ML Mountain Frame-W - Silver, 38",Components,Mountain Frames,199.3757,Silver,ML Mountain Frame-W,Current
+550,12,"LL Mountain Frame - Black, 40",Components,Mountain Frames,136.785,Black,LL Mountain Frame,Current
+551,12,"LL Mountain Frame - Silver, 40",Components,Mountain Frames,144.5938,Silver,LL Mountain Frame,Current
+552,9,Front Derailleur,Components,Derailleurs,40.6216,Silver,Front Derailleur,Current
+553,4,LL Touring Handlebars,Components,Handlebars,20.464,NA,LL Touring Handlebars,Current
+554,4,HL Touring Handlebars,Components,Handlebars,40.6571,NA,HL Touring Handlebars,Current
+555,6,Front Brakes,Components,Brakes,47.286,Silver,Front Brakes,Current
+556,8,LL Crankset,Components,Cranksets,77.9176,Black,LL Crankset,Current
+557,8,ML Crankset,Components,Cranksets,113.8816,Black,ML Crankset,Current
+558,8,HL Crankset,Components,Cranksets,179.8156,Black,HL Crankset,Current
+559,7,Chain,Components,Chains,8.9866,Silver,Chain,Current
+560,3,"Touring-2000 Blue, 60",Bikes,Touring Bikes,755.1508,Blue,Touring-2000,Current
+561,3,"Touring-1000 Yellow, 46",Bikes,Touring Bikes,1481.9379,Yellow,Touring-1000,Current
+562,3,"Touring-1000 Yellow, 50",Bikes,Touring Bikes,1481.9379,Yellow,Touring-1000,Current
+563,3,"Touring-1000 Yellow, 54",Bikes,Touring Bikes,1481.9379,Yellow,Touring-1000,Current
+564,3,"Touring-1000 Yellow, 60",Bikes,Touring Bikes,1481.9379,Yellow,Touring-1000,Current
+565,3,"Touring-3000 Blue, 54",Bikes,Touring Bikes,461.4448,Blue,Touring-3000,Current
+566,3,"Touring-3000 Blue, 58",Bikes,Touring Bikes,461.4448,Blue,Touring-3000,Current
+567,3,"Touring-3000 Blue, 62",Bikes,Touring Bikes,461.4448,Blue,Touring-3000,Current
+568,3,"Touring-3000 Yellow, 44",Bikes,Touring Bikes,461.4448,Yellow,Touring-3000,Current
+569,3,"Touring-3000 Yellow, 50",Bikes,Touring Bikes,461.4448,Yellow,Touring-3000,Current
+570,3,"Touring-3000 Yellow, 54",Bikes,Touring Bikes,461.4448,Yellow,Touring-3000,Current
+571,3,"Touring-3000 Yellow, 58",Bikes,Touring Bikes,461.4448,Yellow,Touring-3000,Current
+572,3,"Touring-3000 Yellow, 62",Bikes,Touring Bikes,461.4448,Yellow,Touring-3000,Current
+573,3,"Touring-1000 Blue, 46",Bikes,Touring Bikes,1481.9379,Blue,Touring-1000,Current
+574,3,"Touring-1000 Blue, 50",Bikes,Touring Bikes,1481.9379,Blue,Touring-1000,Current
+575,3,"Touring-1000 Blue, 54",Bikes,Touring Bikes,1481.9379,Blue,Touring-1000,Current
+576,3,"Touring-1000 Blue, 60",Bikes,Touring Bikes,1481.9379,Blue,Touring-1000,Current
+577,3,"Touring-2000 Blue, 46",Bikes,Touring Bikes,755.1508,Blue,Touring-2000,Current
+578,3,"Touring-2000 Blue, 50",Bikes,Touring Bikes,755.1508,Blue,Touring-2000,Current
+579,3,"Touring-2000 Blue, 54",Bikes,Touring Bikes,755.1508,Blue,Touring-2000,Current
+580,2,"Road-350-W Yellow, 40",Bikes,Road Bikes,1082.51,Yellow,Road-350-W,Current
+581,2,"Road-350-W Yellow, 42",Bikes,Road Bikes,1082.51,Yellow,Road-350-W,Current
+582,2,"Road-350-W Yellow, 44",Bikes,Road Bikes,1082.51,Yellow,Road-350-W,Current
+583,2,"Road-350-W Yellow, 48",Bikes,Road Bikes,1082.51,Yellow,Road-350-W,Current
+584,2,"Road-750 Black, 58",Bikes,Road Bikes,343.6496,Black,Road-750,Current
+585,3,"Touring-3000 Blue, 44",Bikes,Touring Bikes,461.4448,Blue,Touring-3000,Current
+586,3,"Touring-3000 Blue, 50",Bikes,Touring Bikes,461.4448,Blue,Touring-3000,Current
+587,1,"Mountain-400-W Silver, 38",Bikes,Mountain Bikes,419.7784,Silver,Mountain-400-W,Current
+588,1,"Mountain-400-W Silver, 40",Bikes,Mountain Bikes,419.7784,Silver,Mountain-400-W,Current
+589,1,"Mountain-400-W Silver, 42",Bikes,Mountain Bikes,419.7784,Silver,Mountain-400-W,Current
+590,1,"Mountain-400-W Silver, 46",Bikes,Mountain Bikes,419.7784,Silver,Mountain-400-W,Current
+591,1,"Mountain-500 Silver, 40",Bikes,Mountain Bikes,308.2179,Silver,Mountain-500,Current
+592,1,"Mountain-500 Silver, 42",Bikes,Mountain Bikes,308.2179,Silver,Mountain-500,Current
+593,1,"Mountain-500 Silver, 44",Bikes,Mountain Bikes,308.2179,Silver,Mountain-500,Current
+594,1,"Mountain-500 Silver, 48",Bikes,Mountain Bikes,308.2179,Silver,Mountain-500,Current
+595,1,"Mountain-500 Silver, 52",Bikes,Mountain Bikes,308.2179,Silver,Mountain-500,Current
+596,1,"Mountain-500 Black, 40",Bikes,Mountain Bikes,294.5797,Black,Mountain-500,Current
+597,1,"Mountain-500 Black, 42",Bikes,Mountain Bikes,294.5797,Black,Mountain-500,Current
+598,1,"Mountain-500 Black, 44",Bikes,Mountain Bikes,294.5797,Black,Mountain-500,Current
+599,1,"Mountain-500 Black, 48",Bikes,Mountain Bikes,294.5797,Black,Mountain-500,Current
+600,1,"Mountain-500 Black, 52",Bikes,Mountain Bikes,294.5797,Black,Mountain-500,Current
+601,5,LL Bottom Bracket,Components,Bottom Brackets,23.9716,NA,LL Bottom Bracket,Current
+602,5,ML Bottom Bracket,Components,Bottom Brackets,44.9506,NA,ML Bottom Bracket,Current
+603,5,HL Bottom Bracket,Components,Bottom Brackets,53.9416,NA,HL Bottom Bracket,Current
+604,2,"Road-750 Black, 44",Bikes,Road Bikes,343.6496,Black,Road-750,Current
+605,2,"Road-750 Black, 48",Bikes,Road Bikes,343.6496,Black,Road-750,Current
+606,2,"Road-750 Black, 52",Bikes,Road Bikes,343.6496,Black,Road-750,Current
