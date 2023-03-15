@@ -1,4 +1,5 @@
 # AdventureWorks-DB-EDA-with-SQL-and-PowerBI-
+Microsoft AdventureWorks Database analysis using MS SQL Server and visualization with PowerBI.
 
 ## Prequirement
 Database - [AdventureWorksDW2019.bak](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms) 
