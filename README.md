@@ -16,11 +16,13 @@ Database - [AdventureWorksDW2019.bak](https://learn.microsoft.com/en-us/sql/samp
 
 
 ## Data Visualization 
-##### i. Entity Relationship Diagram Model
-![My image]()
-##### ii. Sales Overview Dashboard
-##### iii. Product Details Dashboard
-##### iv. Customer Details Dashbaord
+##### i. Entity Relationship Diagram Model ![Image](https://github.com/ebunoluwazaynab/AdventureWorks-DB-EDA-with-SQL-and-PowerBI-/blob/main/Visualization/entity_relationship_diagram.JPG)
+
+##### ii. Sales Overview Dashboard ![Image](https://github.com/ebunoluwazaynab/AdventureWorks-DB-EDA-with-SQL-and-PowerBI-/blob/main/Visualization/sales_overview.jpg)
+
+##### iii. Product Details Dashboard  ![Image](https://github.com/ebunoluwazaynab/AdventureWorks-DB-EDA-with-SQL-and-PowerBI-/blob/main/Visualization/product_details.jpg)
+
+##### iv. Customer Details Dashbaord  ![Image](https://github.com/ebunoluwazaynab/AdventureWorks-DB-EDA-with-SQL-and-PowerBI-/blob/main/Visualization/customer_details.jpg)
 
 
 #### Contributions are welcome here 😊
