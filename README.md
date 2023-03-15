@@ -9,11 +9,11 @@ Database - [AdventureWorksDW2019.bak](https://learn.microsoft.com/en-us/sql/samp
 * Visualization Tool - Microsoft PowerBI
 
 ## The following tables were chosen for analysis:
-* Dim_Customer.sql
-* Dim_Date.sql
-* Dim_Products.sql
+* DimCustomer.sql
+* DimDate.sql
+* DimProducts.sql
 * FactInternetSales.sql
-* Dim_Geography.sql
+* DimGeography.sql
 
 
 ## Data Visualization 
